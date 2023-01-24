@@ -1,0 +1,23 @@
+/* footer styles */
+
+footer {
+  text-align: center;
+  padding: 3.5rem;
+  background-color: var(--black);
+}
+
+footer ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+footer a {
+  display: block;
+  font-size: 200%;
+  text-align: center;
+}
